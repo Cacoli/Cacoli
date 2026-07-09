@@ -211,7 +211,7 @@ Studied and implemented enterprise-grade RPA workflows using UiPath, focusing on
 
 **Cisco**
 
-![Cisco CCNA](https://img.shields.io/badge/Cisco-Networking%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+<a href="https://github.com/Cacoli/Cacoli/blob/main/CCNA-_Introduction_to_Networks_certificate.pdf"><img src="https://img.shields.io/badge/Cisco-CCNA%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 
 ---
 
