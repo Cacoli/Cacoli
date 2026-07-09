@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Kakoli%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=55&descSize=18)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Kakoli%20Atri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=55&descSize=18)
 
 <a href="https://github.com/Cacoli">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer+(FastAPI+%2B+Next.js);RAG+Systems+%7C+LLMs+%7C+Vector+Databases;Building+Gapwise+%7C+Open+to+Opportunities" alt="Typing SVG" />
@@ -108,7 +108,7 @@ Full-stack RAG-based study tool that ingests learning material, identifies topic
 | Category | Details |
 |---|---|
 | **Stack** | FastAPI, Next.js, Supabase, Qdrant Cloud, Groq (`openai/gpt-oss-120b`), HuggingFace `all-MiniLM-L6-v2` |
-| **Scale** | 4 dashboard modules — Dashboard, Gap Visualizer, Quiz Engine, Notes |
+| **Scale** | 4 Atrihboard modules — Atrihboard, Gap Visualizer, Quiz Engine, Notes |
 | **Performance** | SSE-streamed quiz generation for real-time question delivery |
 | **Security** | Supabase Auth, environment-isolated API keys, CORS-restricted origins |
 | **Impact** | Automates topic-level gap identification from raw study material |
@@ -126,7 +126,7 @@ FinBERT-based sentiment analysis engine that parses NSE/BSE earnings announcemen
 
 | Category | Details |
 |---|---|
-| **Stack** | Python, FinBERT, Pandas, NSE/BSE data pipelines |
+| **Stack** | Python, FinBERT, PanAtri, NSE/BSE data pipelines |
 | **Scale** | Designed for multi-ticker batch sentiment scoring |
 | **Performance** | Target: near real-time signal generation on announcement release |
 | **Security** | Read-only data ingestion, no trade execution |
