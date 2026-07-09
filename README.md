@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/kakoli-atri-a42b6631a/)"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kakoli-atri-a42b6631a/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kakoliatri3309@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Cacoli"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -32,11 +32,10 @@
 ## About Me
 
 ```yaml
-name: "Kakoli Atri"
-role: "AI/ML Engineer & Full Stack Developer"
-education: "B.Tech CSE (IoT), Manipal University Jaipur"
-focus: ["Retrieval-Augmented Generation", "LLM Systems", "Full Stack Product Engineering"]
-philosophy: "Ship defensible, well-architected systems — not demos"
+name: Kakoli Atri
+role: AI/ML Engineer & Full Stack Developer
+education: B.Tech CSE (IoT), Manipal University Jaipur
+focus: Retrieval-Augmented Generation, LLM Systems, Full Stack Product Engineering
 ```
 
 I am an engineering-minded builder focused on **production-grade AI systems** and **full stack product development**. My core strength lies in designing **RAG pipelines**, integrating **LLM inference layers**, and shipping them behind robust, scalable **FastAPI + Next.js** architectures — with real attention to deployment constraints, cost, and reliability, not just prototypes.
@@ -270,7 +269,7 @@ open_to:
 <div align="center">
 
 <a href="mailto:kakoliatri3309@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/kakoli-atri-a42b6631a/)"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kakoli-atri-a42b6631a/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Cacoli"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
