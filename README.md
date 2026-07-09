@@ -10,13 +10,13 @@
 
 ![Academic](https://img.shields.io/badge/B.Tech-CSE%20(IoT)-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white)
 ![University](https://img.shields.io/badge/Manipal%20University%20Jaipur-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/📍-Jaipur,%20India-7C3AED?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Jaipur,%20India-7C3AED?style=for-the-badge)
 
 <br/>
 
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/kakoli-atri-a42b6631a/)"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kakoliatri3309@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Cacoli"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 name: "Kakoli Atri"
@@ -44,14 +44,14 @@ I am an engineering-minded builder focused on **production-grade AI systems** an
 I approach every project with a **product engineering mindset**: understanding constraints (memory limits, API rate limits, model deprecations), debugging at the systems level, and making pragmatic architectural trade-offs rather than chasing complexity for its own sake.
 
 **Open To:**
-- 🎯 SDE / AI Engineer Internships & New-Grad Roles
-- 🤝 Open Source Collaboration on RAG / LLM tooling
-- 💡 Full Stack Engineering Opportunities
-- 🧪 Applied ML / NLP Research Projects
+- SDE / AI Engineer Internships & New-Grad Roles
+- Open Source Collaboration on RAG / LLM tooling
+- Full Stack Engineering Opportunities
+- Applied ML / NLP Research Projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -80,7 +80,7 @@ I approach every project with a **product engineering mindset**: understanding c
 
 ---
 
-## 🤖 AI / ML Expertise
+## AI / ML Expertise
 
 <div align="center">
 
@@ -90,17 +90,16 @@ I approach every project with a **product engineering mindset**: understanding c
 | **LLM Integration** | ★★★★☆ | Groq inference (`gpt-oss-120b`), prompt engineering, streaming responses |
 | **Embeddings & Vector Search** | ★★★★★ | Semantic similarity, Qdrant Cloud collections, hybrid retrieval |
 | **Transformer Fundamentals** | ★★★★☆ | Multi-head attention, fine-tuning concepts, QLoRA |
-| **NLP for Finance** | ★★★☆☆ | FinBERT sentiment modeling for market signal generation |
 | **Deployment of ML Systems** | ★★★★☆ | Docker containerization, memory-constrained inference optimization |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-<summary><b>🧩 Gapwise — AI-Powered Study Gap Analysis Platform</b></summary>
+<summary><b>Gapwise — AI-Powered Study Gap Analysis Platform</b></summary>
 <br/>
 
 Full-stack RAG-based study tool that ingests learning material, identifies topic-level knowledge gaps, and generates targeted quizzes with instant, streamed feedback.
@@ -108,7 +107,7 @@ Full-stack RAG-based study tool that ingests learning material, identifies topic
 | Category | Details |
 |---|---|
 | **Stack** | FastAPI, Next.js, Supabase, Qdrant Cloud, Groq (`openai/gpt-oss-120b`), HuggingFace `all-MiniLM-L6-v2` |
-| **Scale** | 4 Atrihboard modules — Atrihboard, Gap Visualizer, Quiz Engine, Notes |
+| **Scale** | 4 dashboard modules — Dashboard, Gap Visualizer, Quiz Engine, Notes |
 | **Performance** | SSE-streamed quiz generation for real-time question delivery |
 | **Security** | Supabase Auth, environment-isolated API keys, CORS-restricted origins |
 | **Impact** | Automates topic-level gap identification from raw study material |
@@ -119,45 +118,7 @@ Architected end-to-end: ingestion pipeline chunks and embeds uploaded material i
 </details>
 
 <details>
-<summary><b>📈 PEAD Analyzer — Post-Earnings Sentiment Signal Engine</b> <i>(In Progress)</i></summary>
-<br/>
-
-FinBERT-based sentiment analysis engine that parses NSE/BSE earnings announcements to generate directional trading signals.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python, FinBERT, PanAtri, NSE/BSE data pipelines |
-| **Scale** | Designed for multi-ticker batch sentiment scoring |
-| **Performance** | Target: near real-time signal generation on announcement release |
-| **Security** | Read-only data ingestion, no trade execution |
-| **Impact** | Converts unstructured earnings text into actionable BUY/SELL/HOLD signals |
-| **Repository** | Planned |
-
-Applies transformer-based financial sentiment modeling to a domain-specific market signal use case, extending core NLP experience into a quantitative finance context.
-
-</details>
-
-<details>
-<summary><b>🏛️ SchemeBot — Indian Government Scheme Explainer</b> <i>(Planned)</i></summary>
-<br/>
-
-A fine-tuned conversational assistant that explains Indian government welfare schemes in plain language.
-
-| Category | Details |
-|---|---|
-| **Stack** | QLoRA fine-tuned Llama 3.2 3B, Gradio, Hugging Face Spaces |
-| **Scale** | Single-model deployment optimized for low-resource inference |
-| **Performance** | Optimized via parameter-efficient fine-tuning (QLoRA) |
-| **Security** | Fully offline-inference capable, no external data dependency |
-| **Impact** | Improves public accessibility to government scheme information |
-| **Repository** | Planned |
-
-A dedicated fine-tuning portfolio project demonstrating parameter-efficient training and deployment of a domain-specialized LLM.
-
-</details>
-
-<details>
-<summary><b>👁️ CCTV Gateway — Real-Time Face Recognition System</b></summary>
+<summary><b>CCTV Gateway — Real-Time Face Recognition System</b></summary>
 <br/>
 
 Academic research project implementing real-time facial recognition over RTSP video streams.
@@ -176,26 +137,7 @@ Built with a research collaborator; combined ArcFace embeddings with RTSP stream
 </details>
 
 <details>
-<summary><b>🦯 BrailleSync — Assistive IoT Device</b></summary>
-<br/>
-
-Embedded assistive-technology device combining RFID scanning and OCR for accessibility use cases.
-
-| Category | Details |
-|---|---|
-| **Stack** | ESP32, RFID, OCR |
-| **Scale** | Single-device embedded deployment |
-| **Performance** | Low-latency text-to-output conversion |
-| **Security** | Local processing on-device |
-| **Impact** | Rated 8.5/10 in academic evaluation |
-| **Repository** | [github.com/Cacoli](https://github.com/Cacoli) |
-
-Designed and built as an embedded systems project combining hardware sensing (RFID) with OCR-based text recognition on ESP32.
-
-</details>
-
-<details>
-<summary><b>🤖 SalaryBot — RPA Payroll Automation</b></summary>
+<summary><b>SalaryBot — RPA Payroll Automation</b></summary>
 <br/>
 
 UiPath-based robotic process automation bot for payroll processing and notification.
@@ -214,7 +156,7 @@ Built using UiPath's REFramework for robust, exception-handled automation of a r
 </details>
 
 <details>
-<summary><b>📄 GitHub Repo Explainer — LLM-Powered Documentation Tool</b></summary>
+<summary><b>GitHub Repo Explainer — LLM-Powered Documentation Tool</b></summary>
 <br/>
 
 A tool that ingests any GitHub repository and generates a plain-language explanation of its architecture and purpose.
@@ -234,7 +176,7 @@ Combines GitHub's API for repo structure retrieval with LLM-based summarization 
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Robotic Process Automation — Academic Project Work**
 `Manipal University Jaipur`
@@ -250,22 +192,11 @@ Studied and implemented enterprise-grade RPA workflows using UiPath, focusing on
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| **BrailleSync — Project Evaluation** | Rated 8.5/10 in academic project assessment |
-| **CCTV Gateway — Co-Authored Paper** | Co-authored academic paper on real-time face recognition |
-| **Full-Stack RAG System — Gapwise** | Independently architected and deployed a 4-module production RAG application |
-| **Deployment Optimization** | Resolved memory-constrained ML deployment via Docker + Hugging Face Spaces migration |
-
-</div>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 **AWS**
 
@@ -285,20 +216,7 @@ Studied and implemented enterprise-grade RPA workflows using UiPath, focusing on
 
 ---
 
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Cacoli)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/Cacoli)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Cacoli)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Cacoli)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -311,17 +229,9 @@ Studied and implemented enterprise-grade RPA workflows using UiPath, focusing on
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Cacoli&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title=Commits,Stars,PullRequest,Repositories" />
-
-</div>
-
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -331,27 +241,16 @@ Studied and implemented enterprise-grade RPA workflows using UiPath, focusing on
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Cacoli/Cacoli/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 learning:
   - Advanced RAG architectures & agentic workflows
   - Parameter-efficient fine-tuning (QLoRA)
-  - Financial NLP (FinBERT applications)
+  - Robotics middleware & simulation (ROS-based systems)
 
 building:
   - Gapwise (RAG-based study gap analysis platform)
-  - PEAD Analyzer (FinBERT market signal engine)
 
 exploring:
   - Multi-agent LLM orchestration
@@ -366,12 +265,12 @@ open_to:
 
 ---
 
-## 📬 Connect
+## Connect
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kakoliatri3309@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/kakoli-atri-a42b6631a/)"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Cacoli"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
