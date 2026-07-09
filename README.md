@@ -197,21 +197,21 @@ Studied and implemented enterprise-grade RPA workflows using UiPath, focusing on
 
 ## Certifications
 
-**AWS**
+**Cisco (CCNA)**
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle-Certified%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<a href="https://github.com/Cacoli/Cacoli/blob/main/CCNA-_Introduction_to_Networks_certificate.pdf"><img src="https://img.shields.io/badge/Cisco-CCNA%3A%20Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<a href="https://github.com/Cacoli/Cacoli/blob/main/CCNA-_Switching-_Routing-_and_Wireless_Essentials_certificate_kakoli-23fe10cii00097-muj-manipal-edu_2aaefc09-234b-4f57-81c7-36bf4f710066.pdf"><img src="https://img.shields.io/badge/Cisco-CCNA%3A%20Switching%2C%20Routing%20%26%20Wireless-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<a href="https://github.com/Cacoli/Cacoli/blob/main/CCNA-_Enterprise_Networking-_Security-_and_Automation_certificate_kakoli-23fe10cii00097-muj-manipal-edu_8db7af47-4476-4376-b94b-68d8c227e01c.pdf"><img src="https://img.shields.io/badge/Cisco-CCNA%3A%20Enterprise%2C%20Security%20%26%20Automation-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<a href="https://github.com/Cacoli/Cacoli/blob/main/ccna_cybersecurity_essential.pdf"><img src="https://img.shields.io/badge/Cisco-CCNA%3A%20Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 
 **NPTEL**
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+<a href="https://github.com/Cacoli/Cacoli/blob/main/nptel_programming%20in%20java.pdf"><img src="https://img.shields.io/badge/NPTEL-Java%20Programming-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+<a href="https://github.com/Cacoli/Cacoli/blob/main/nptel_dbms.pdf"><img src="https://img.shields.io/badge/NPTEL-DBMS-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 
-**Cisco**
+**AI/ML**
 
-<a href="https://github.com/Cacoli/Cacoli/blob/main/CCNA-_Introduction_to_Networks_certificate.pdf"><img src="https://img.shields.io/badge/Cisco-CCNA%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<a href="https://github.com/Cacoli/Cacoli/blob/main/Introduction_to_Modern_AI_certificate_kakoli-23fe10cii00097-muj-manipal-edu_710c69a5-d77e-468e-b688-65ad5fec0b13.pdf"><img src="https://img.shields.io/badge/Certificate-Introduction%20to%20Modern%20AI-6D28D9?style=for-the-badge&logo=openai&logoColor=white" /></a>
 
 ---
 
